@@ -1,0 +1,9 @@
+\\Mac\Home\Desktop\Dev\Blazor\HealthTracker\HealthTracker\Shared\bin\Debug\netstandard2.1\HealthTracker.Shared.deps.json
+\\Mac\Home\Desktop\Dev\Blazor\HealthTracker\HealthTracker\Shared\bin\Debug\netstandard2.1\HealthTracker.Shared.dll
+\\Mac\Home\Desktop\Dev\Blazor\HealthTracker\HealthTracker\Shared\bin\Debug\netstandard2.1\HealthTracker.Shared.pdb
+\\Mac\Home\Desktop\Dev\Blazor\HealthTracker\HealthTracker\Shared\obj\Debug\netstandard2.1\HealthTracker.Shared.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Dev\Blazor\HealthTracker\HealthTracker\Shared\obj\Debug\netstandard2.1\HealthTracker.Shared.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Dev\Blazor\HealthTracker\HealthTracker\Shared\obj\Debug\netstandard2.1\HealthTracker.Shared.AssemblyInfo.cs
+\\Mac\Home\Desktop\Dev\Blazor\HealthTracker\HealthTracker\Shared\obj\Debug\netstandard2.1\HealthTracker.Shared.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Dev\Blazor\HealthTracker\HealthTracker\Shared\obj\Debug\netstandard2.1\HealthTracker.Shared.dll
+\\Mac\Home\Desktop\Dev\Blazor\HealthTracker\HealthTracker\Shared\obj\Debug\netstandard2.1\HealthTracker.Shared.pdb

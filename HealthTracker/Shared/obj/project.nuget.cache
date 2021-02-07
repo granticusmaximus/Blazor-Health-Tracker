@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LqWM0whHS03PpRWtbkVlw1VTk0WKEKi6Cwh7ry1ou0PJpLOkDEDVoXof/VIy0SywGU3h4gw2z3uSZ97b3Tnf9Q==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Desktop\\Dev\\Blazor\\HealthTracker\\HealthTracker\\Shared\\HealthTracker.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grantwatson\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
